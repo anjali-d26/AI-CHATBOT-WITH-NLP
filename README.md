@@ -30,7 +30,7 @@ Command Line/Terminal: Interface for user-chatbot interaction.
 ##Conclusion:
 This project successfully demonstrates how to build a simple chatbot using NLTK that can handle basic greetings and queries. Although it's limited to predefined patterns, it forms the foundation for developing more intelligent NLP-based conversational agents.
 ##OUTPUT :
-![Screenshot 2025-05-18 184523]()
+![Screenshot 2025-05-18 184523](https://github.com/anjali-d26/AI-CHATBOT-WITH-NLP/blob/main/Screenshot%202025-05-18%20184523.png?raw=true)
 
 
 
